@@ -15,7 +15,7 @@ function Home() {
         setLoading(false);
       });
   }, []);
-  console.log(movies);
+  //   console.log(movies);
 
   return (
     <div>
